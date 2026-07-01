@@ -51,3 +51,7 @@ Manga-OCR을 처음 실행할 때는 AI 모델을 불러오는 데 **1분 정도
 | Manga-OCR | 만화 최적화, 고품질 (Python 필요) |
 | 구글 번역 | 번역 품질 우수 |
 | ezTrans | 로컬 번역 지원 |
+
+## 작업 근황
+
+작업 진척도는 [이곳](https://github.com/users/izure1/projects/5)에서 확인할 수 있습니다.
