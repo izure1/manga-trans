@@ -198,6 +198,9 @@ python -m pip install "transformers<5.0.0" sentencepiece protobuf tiktoken --for
 
 ## 📝 업데이트 내역
 
+**v1.4.0**
+- 말풍선 인페인트 지원
+
 **v1.3.0**
 - 말풍선을 직접 드래그해서 회전시키는 기능 추가 (기울어진 말풍선용)
 - 좌측 상단에 현재 페이지 / 번역 진행 상황 표시 기능 추가 (설정에서 on/off 가능)
